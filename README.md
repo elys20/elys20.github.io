@@ -1,15 +1,11 @@
 # elys20.github.io
-Jogo Mario em JavaScript
 
 
-    ![image](https://user-images.githubusercontent.com/97187182/196266378-63160625-7158-4e5e-b736-432c507e214c.png)
-
-
+![mario_dead](https://user-images.githubusercontent.com/97187182/196266574-8c241333-10ef-4816-8094-3878534ae936.png)
 
 
 
-JOGO MARIO JUMP❤️
-Desenvolvi esse minigame a partir de uma Video-Aula em um momento de aprimoramento de conhecimentos na área do Javascript.
+                                                                   JOGO MARIO JUMP❤️
 
 ▪️Acesse o link, basta você apertar a tecla e indicada (cetinha para cima) e jogar.
 
