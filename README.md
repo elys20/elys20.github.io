@@ -1,6 +1,6 @@
 # elys20.github.io
 
-                        ![mario_speed](https://user-images.githubusercontent.com/97187182/196266653-2f629450-32ca-4f89-b018-5d5f1077ef67.gif)
+ ![mario_speed](https://user-images.githubusercontent.com/97187182/196266653-2f629450-32ca-4f89-b018-5d5f1077ef67.gif)
 
 
                                                                 JOGO MARIO JUMP❤️
