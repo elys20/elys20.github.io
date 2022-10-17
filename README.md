@@ -3,7 +3,12 @@
 ![mario_speed](https://user-images.githubusercontent.com/97187182/196266653-2f629450-32ca-4f89-b018-5d5f1077ef67.gif)
 
 
-                                                                   JOGO MARIO JUMP❤️
+                                                                JOGO MARIO JUMP❤️
+
+                                                       Como jogar • Autor Referências
+
+🎲Como Jogar?
+▪️Acesse o link do jogo: https://elys20.github.io/
 
 ▪️Acesse o link, basta você apertar a tecla e indicada (cetinha para cima) e jogar.
 
